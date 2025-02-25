@@ -13,11 +13,11 @@ The dataset was obtained from Kaggle and includes information about various miss
 
 ## Data Visualization
 We visualized key insights from the dataset, including:
-- Organizations and Their Counts (ESA Highlighted)(img\Organizations and Their Counts (ESA Highlighted).png)
-- Mission_Status (img\Mission_Status.png)
-- Feature importance plots (img\FeatureImportance.png)
-- Confusion matrix (img\confusionMatrix.png)
-- ROC and Precision-Recall curves (img\ROC.png)
+- Organizations and Their Counts (ESA Highlighted)(img/Counts.png)
+- Mission_Status (img/MissionStatus.png)
+- Feature importance plots (img/FeatureImportance.png)
+- Confusion matrix (img/ConfusionMatrix.png)
+- ROC and Precision-Recall curves (img/ROC_.png)
 
 ## Model
 We used a Random Forest Classifier with hyperparameter tuning via Grid Search and Stratified Cross-Validation. The model’s performance was evaluated using:
